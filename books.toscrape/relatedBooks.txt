@@ -1,2 +1,4 @@
-Book Type: politics 
-Link: https://books.toscrape.com/catalogue/category/books/politics_48/index.html 
+Book Type: sequential-art 
+https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html 
+Book Type: art 
+https://books.toscrape.com/catalogue/category/books/art_25/index.html 
