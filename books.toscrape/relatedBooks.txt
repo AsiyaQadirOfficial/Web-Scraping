@@ -1,4 +1,2 @@
-Book Type: sequential-art 
-https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html 
-Book Type: art 
-https://books.toscrape.com/catalogue/category/books/art_25/index.html 
+Book Type: mystery 
+https://books.toscrape.com/catalogue/category/books/mystery_3/index.html 

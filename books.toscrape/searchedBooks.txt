@@ -1,0 +1,140 @@
+Book Title: Sharp Objects
+Book Link: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+Title Image Source: https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg
+Book Price: £47.82
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: In a Dark, Dark ...
+Book Link: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+Title Image Source: https://books.toscrape.com/media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg
+Book Price: £19.63
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The Past Never Ends
+Book Link: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+Title Image Source: https://books.toscrape.com/media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg
+Book Price: £56.50
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: A Murder in Time
+Book Link: https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+Title Image Source: https://books.toscrape.com/media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg
+Book Price: £16.64
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The Murder of Roger ...
+Book Link: https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+Title Image Source: https://books.toscrape.com/media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg
+Book Price: £44.10
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The Last Mile (Amos ...
+Book Link: https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+Title Image Source: https://books.toscrape.com/media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg
+Book Price: £54.21
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: That Darkness (Gardiner and ...
+Book Link: https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+Title Image Source: https://books.toscrape.com/media/cache/44/9e/449ed681142bc336646abee754e96639.jpg
+Book Price: £13.92
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Tastes Like Fear (DI ...
+Book Link: https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+Title Image Source: https://books.toscrape.com/media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg
+Book Price: £10.69
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: A Time of Torment ...
+Book Link: https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+Title Image Source: https://books.toscrape.com/media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg
+Book Price: £48.35
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: A Study in Scarlet ...
+Book Link: https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+Title Image Source: https://books.toscrape.com/media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg
+Book Price: £16.73
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: Poisonous (Max Revere Novels ...
+Book Link: https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+Title Image Source: https://books.toscrape.com/media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg
+Book Price: £26.80
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Murder at the 42nd ...
+Book Link: https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+Title Image Source: https://books.toscrape.com/media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg
+Book Price: £54.36
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: Most Wanted
+Book Link: https://books.toscrape.com/catalogue/most-wanted_623/index.html
+Title Image Source: https://books.toscrape.com/media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg
+Book Price: £35.28
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Hide Away (Eve Duncan ...
+Book Link: https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+Title Image Source: https://books.toscrape.com/media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg
+Book Price: £11.84
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Boar Island (Anna Pigeon ...
+Book Link: https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+Title Image Source: https://books.toscrape.com/media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg
+Book Price: £59.48
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Widow
+Book Link: https://books.toscrape.com/catalogue/the-widow_609/index.html
+Title Image Source: https://books.toscrape.com/media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg
+Book Price: £27.26
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: Playing with Fire
+Book Link: https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+Title Image Source: https://books.toscrape.com/media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg
+Book Price: £13.71
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: What Happened on Beale ...
+Book Link: https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+Title Image Source: https://books.toscrape.com/media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg
+Book Price: £25.37
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Bachelor Girl's Guide ...
+Book Link: https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+Title Image Source: https://books.toscrape.com/media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg
+Book Price: £52.30
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Delivering the Truth (Quaker ...
+Book Link: https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+Title Image Source: https://books.toscrape.com/media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg
+Book Price: £20.89
+Star Rate:: Four
+Stock Availability: In stock
+
