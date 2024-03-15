@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import numpy as np  
+import re
 
 url = 'https://books.toscrape.com/'
 html_content = requests.get(url).text
@@ -24,23 +25,31 @@ with open('allBooks.txt','w') as f:
         f.write(f'Book Type: {book_name} \n')
         f.write(f'{href} \n\n')
 
-book_type = input('Enter your Book category here: ')
+book_category = input('Enter your Book category here: ')
 found = False  
 for book in books:
-    mybook = book.lower()
-    if book_type.lower() in mybook:
+    if book_category.lower() in book.lower():
         found = True
         break
+    else:
+        try:
+            if re.findall('[ ]|[-]',book_category):
+                category = re.sub("[ ]|[-]", "", book_category)     #sub replaces one or many matches with a string
+                if category.lower() in book.lower():
+                    found = True
+                    break
+        except IndexError:
+            print("Index Error!")
 
 if found:
     print('Found book!')
-    print(f'Filtering {book_type} related books....')
+    print(f'Filtering {book_category} related books....')
     if os.stat('relatedBooks.txt').st_size != 0:
         os.remove('relatedBooks.txt')
     with open('allBooks.txt', 'r') as content:
         all_books = content.readlines()
         for related_book in all_books:
-            if book_type in related_book:
+            if book_category in related_book:
                 # print(related_book)
                 for result in related_book:
                     with open('relatedBooks.txt', 'a+') as f:
@@ -53,9 +62,8 @@ with open('relatedBooks.txt','r') as f:
     content = f.readlines()  
     arr = np.array([content])
     
-    # x = np.where(arr == book_type)
-    i = [i for i, line in enumerate(content) if book_type.lower() in line.split()]    #matched booktype line's index
-    x = [line for line in content if book_type.lower() in line.split()]     #matched booktype content
+    i = [i for i, line in enumerate(content) if book_category.lower() in line.split()]    #matched booktype line's index
+    x = [line for line in content if book_category.lower() in line.split()]     #matched booktype content
     link_index = i[0] + 1
     scraped_link = content[link_index]
     split_link = scraped_link.split('/')[0:-1]
@@ -64,8 +72,6 @@ with open('relatedBooks.txt','r') as f:
     url_response = requests.get(required_link)
     htmlContent = url_response.text
     soup2 = BeautifulSoup(htmlContent, 'html.parser')
-    # soup2 = BeautifulSoup(htmlContent, 'html.parser').prettify()
-    # print(soup2)
 
     alias = soup2.find_all('li', class_ = 'col-xs-6 col-sm-4 col-md-3 col-lg-3')
     if os.stat('searchedBooks.txt').st_size != 0:
@@ -119,12 +125,10 @@ with open('relatedBooks.txt','r') as f:
         print()
 
 
-        with open('searchedBooks.txt', 'a') as file:
+        with open('searchedBooks.txt', 'a', encoding='utf-8') as file:
             file.write(f'Book Title: {book_title}\n')
             file.write(f'Book Link: {searched_book_link}\n')
             file.write(f'Title Image Source: {title_image_source_link}\n')
             file.write(f'Book Price: {book_price}\n')
             file.write(f'Star Rate:: {star_rate}\n')
             file.write(f'Stock Availability: {stock_availability}\n\n')
-
-    

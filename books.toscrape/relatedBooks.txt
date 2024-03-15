@@ -1,2 +1,2 @@
-Book Type: mystery 
-https://books.toscrape.com/catalogue/category/books/mystery_3/index.html 
+Book Type: short-stories 
+https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html 
