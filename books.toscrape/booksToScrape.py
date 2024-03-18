@@ -11,7 +11,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 books_list = soup.find('ul', class_='nav nav-list')
 book_list = books_list.text.replace(' ','')
 books = book_list.split()
-
+# print(books)
 anchor_tags = books_list.find_all('a', href=True)
 flag = False
 with open('allBooks.txt','w') as f:
@@ -26,6 +26,8 @@ with open('allBooks.txt','w') as f:
         f.write(f'{href} \n\n')
 
 book_category = input('Enter your Book category here: ')
+if ' ' in book_category:
+    book_category = book_category.replace(' ', '-')
 found = False  
 for book in books:
     if book_category.lower() in book.lower():
@@ -33,8 +35,8 @@ for book in books:
         break
     else:
         try:
-            if re.findall('[ ]|[-]',book_category):
-                category = re.sub("[ ]|[-]", "", book_category)     #sub replaces one or many matches with a string
+            if re.findall('[-]',book_category):
+                category = re.sub("[-]", "", book_category) #sub replaces one or many matches with a string   
                 if category.lower() in book.lower():
                     found = True
                     break
@@ -44,15 +46,16 @@ for book in books:
 if found:
     print('Found book!')
     print(f'Filtering {book_category} related books....')
-    if os.stat('relatedBooks.txt').st_size != 0:
-        os.remove('relatedBooks.txt')
     with open('allBooks.txt', 'r') as content:
         all_books = content.readlines()
+        with open('relatedBooks.txt', 'w') as my_file:
+            if os.stat('relatedBooks.txt').st_size != 0:
+                my_file.truncate()
+
         for related_book in all_books:
             if book_category in related_book:
-                # print(related_book)
                 for result in related_book:
-                    with open('relatedBooks.txt', 'a+') as f:
+                    with open('relatedBooks.txt', 'a+', encoding='utf-8') as f:
                         f.write(f'{result}') 
 else:
     print('Not Found!')
@@ -60,10 +63,9 @@ else:
 
 with open('relatedBooks.txt','r') as f:
     content = f.readlines()  
-    arr = np.array([content])
-    
     i = [i for i, line in enumerate(content) if book_category.lower() in line.split()]    #matched booktype line's index
     x = [line for line in content if book_category.lower() in line.split()]     #matched booktype content
+
     link_index = i[0] + 1
     scraped_link = content[link_index]
     split_link = scraped_link.split('/')[0:-1]
@@ -74,8 +76,10 @@ with open('relatedBooks.txt','r') as f:
     soup2 = BeautifulSoup(htmlContent, 'html.parser')
 
     alias = soup2.find_all('li', class_ = 'col-xs-6 col-sm-4 col-md-3 col-lg-3')
-    if os.stat('searchedBooks.txt').st_size != 0:
-        os.remove('searchedBooks.txt')
+    with open('searchedBooks.txt', 'w') as my_file:
+        if os.stat('searchedBooks.txt').st_size != 0:
+            my_file.truncate()
+
     for li in alias:
         # Title of book and link here:
         book_title = li.h3.string
@@ -120,7 +124,6 @@ with open('relatedBooks.txt','r') as f:
         # rating stars
         rate_class = li.p['class']
         star_rate = rate_class[1]
-        # print('Rate Class:',rate_class)
         print('Star Rate:',star_rate)
         print()
 
