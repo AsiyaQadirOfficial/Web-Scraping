@@ -1,2 +1,14 @@
-Book Type: short-stories 
-https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html 
+Book Type: historical-fiction 
+https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html 
+Book Type: womens-fiction 
+https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html 
+Book Type: fiction 
+https://books.toscrape.com/catalogue/category/books/fiction_10/index.html 
+Book Type: nonfiction 
+https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html 
+Book Type: science-fiction 
+https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html 
+Book Type: adult-fiction 
+https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html 
+Book Type: christian-fiction 
+https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html 

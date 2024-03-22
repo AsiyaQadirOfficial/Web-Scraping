@@ -1,7 +1,455 @@
-Book Title: The Grownup
-Book Link: https://books.toscrape.com/catalogue/the-grownup_546/index.html
-Title Image Source: https://books.toscrape.com/media/cache/f4/cb/f4cb1f9c7280bf1fd05fe33d2816080f.jpg
-Book Price: Â£35.88
+Book Title: Soumission
+Book Link: https://books.toscrape.com/catalogue/soumission_998/index.html
+Title Image Source: https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg
+Book Price: Â£50.10
 Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Private Paris (Private #10)
+Book Link: https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9d/05/9d0533bae1578846d728a82913b95c26.jpg
+Book Price: Â£47.61
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: We Love You, Charlie ...
+Book Link: https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+Title Image Source: https://books.toscrape.com/media/cache/5f/15/5f152afdbc42356ecba02f61058a7e5b.jpg
+Book Price: Â£50.27
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Thirst
+Book Link: https://books.toscrape.com/catalogue/thirst_946/index.html
+Title Image Source: https://books.toscrape.com/media/cache/c4/0a/c40a64f59e7487b1a80a049f6ceb2ba5.jpg
+Book Price: Â£17.27
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Murder That Never ...
+Book Link: https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+Title Image Source: https://books.toscrape.com/media/cache/dc/44/dc44f8e2aebac48ca8553814d9b021a8.jpg
+Book Price: Â£54.11
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Tuesday Nights in 1980
+Book Link: https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+Title Image Source: https://books.toscrape.com/media/cache/6b/da/6bdae061cb92c32b0b83cda8dd10275d.jpg
+Book Price: Â£21.04
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: The Vacationers
+Book Link: https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+Title Image Source: https://books.toscrape.com/media/cache/37/25/372578cc073efae80cf284b56040a488.jpg
+Book Price: Â£42.15
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The Regional Office Is ...
+Book Link: https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+Title Image Source: https://books.toscrape.com/media/cache/f8/31/f8314c7fdaa79fb7191a583e9a852db8.jpg
+Book Price: Â£51.36
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Finders Keepers (Bill Hodges ...
+Book Link: https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html
+Title Image Source: https://books.toscrape.com/media/cache/6a/81/6a81103b1c01a3f6c56e5718a838a4c8.jpg
+Book Price: Â£53.53
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Time Keeper
+Book Link: https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
+Title Image Source: https://books.toscrape.com/media/cache/8f/f8/8ff8680dde59ea739d6978a01e4d7fe5.jpg
+Book Price: Â£27.88
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Testament of Mary
+Book Link: https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
+Title Image Source: https://books.toscrape.com/media/cache/83/05/8305154438c91a02cefacf4ec8b53393.jpg
+Book Price: Â£52.67
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The First Hostage (J.B. ...
+Book Link: https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
+Title Image Source: https://books.toscrape.com/media/cache/38/34/3834572e651cdc14b18d348fa4875aa9.jpg
+Book Price: Â£25.85
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Take Me with You
+Book Link: https://books.toscrape.com/catalogue/take-me-with-you_741/index.html
+Title Image Source: https://books.toscrape.com/media/cache/d8/a4/d8a44eda7cbe7bd1207f868e9adc06f3.jpg
+Book Price: Â£45.21
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Still Life with Bread ...
+Book Link: https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html
+Title Image Source: https://books.toscrape.com/media/cache/8e/c7/8ec7f310b74ddd7ec3c859e9b0da7389.jpg
+Book Price: Â£26.41
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Shtum
+Book Link: https://books.toscrape.com/catalogue/shtum_733/index.html
+Title Image Source: https://books.toscrape.com/media/cache/03/16/0316bb6f4785ac69c0643109201bad5d.jpg
+Book Price: Â£55.84
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: My Name Is Lucy ...
+Book Link: https://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html
+Title Image Source: https://books.toscrape.com/media/cache/ca/b1/cab150e556b5fab663a9fec00ed97943.jpg
+Book Price: Â£41.56
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: My Mrs. Brown
+Book Link: https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html
+Title Image Source: https://books.toscrape.com/media/cache/e0/79/e07906c1e507055da9a2260a74f58273.jpg
+Book Price: Â£24.48
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Mr. Mercedes (Bill Hodges ...
+Book Link: https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html
+Title Image Source: https://books.toscrape.com/media/cache/a7/f0/a7f092a7b79f848df0226f808fed489b.jpg
+Book Price: Â£28.90
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: I Am Pilgrim (Pilgrim ...
+Book Link: https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html
+Title Image Source: https://books.toscrape.com/media/cache/ed/07/ed07c9e7c53d4f33a6eb7d41eb0e6d4a.jpg
+Book Price: Â£10.60
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: Eligible (The Austen Project ...
+Book Link: https://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html
+Title Image Source: https://books.toscrape.com/media/cache/26/3b/263bf5d128bf18553ea8da8bb19e9a0c.jpg
+Book Price: Â£27.09
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Eight Hundred Grapes
+Book Link: https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
+Title Image Source: https://books.toscrape.com/media/cache/8c/01/8c011092f05791961d25ec3cfcf0a832.jpg
+Book Price: Â£14.39
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: Dear Mr. Knightley
+Book Link: https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html
+Title Image Source: https://books.toscrape.com/media/cache/78/87/78873811f8c1d75a0c26d8cc8e6a9dbc.jpg
+Book Price: Â£11.21
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Cometh the Hour (The ...
+Book Link: https://books.toscrape.com/catalogue/cometh-the-hour-the-clifton-chronicles-6_681/index.html
+Title Image Source: https://books.toscrape.com/media/cache/55/11/5511a4296fbd484dcaa89c8a2d25965d.jpg
+Book Price: Â£25.01
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Balloon Animals
+Book Link: https://books.toscrape.com/catalogue/balloon-animals_665/index.html
+Title Image Source: https://books.toscrape.com/media/cache/6e/23/6e2324cae6335e8e98c8b46597afc9a3.jpg
+Book Price: Â£17.03
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: A Man Called Ove
+Book Link: https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9c/f1/9cf1f4a47b8d08909fc092e6ae598d83.jpg
+Book Price: Â£39.72
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The Silent Sister (Riley ...
+Book Link: https://books.toscrape.com/catalogue/the-silent-sister-riley-macpherson-1_641/index.html
+Title Image Source: https://books.toscrape.com/media/cache/30/2c/302cd9c84442e139145ec0993880d7e0.jpg
+Book Price: Â£46.29
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Dinner Party
+Book Link: https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
+Title Image Source: https://books.toscrape.com/media/cache/ba/76/ba761d23c5c0e5a0638e04739c69c5d0.jpg
+Book Price: Â£56.54
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: The Improbability of Love
+Book Link: https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html
+Title Image Source: https://books.toscrape.com/media/cache/06/49/06493269f6893cfd24b650f66df51882.jpg
+Book Price: Â£59.45
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Mothering Sunday
+Book Link: https://books.toscrape.com/catalogue/mothering-sunday_600/index.html
+Title Image Source: https://books.toscrape.com/media/cache/a8/84/a8843a3fe1a40d5c7df60bbb8cd76ecd.jpg
+Book Price: Â£13.34
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: Lies and Other Acts ...
+Book Link: https://books.toscrape.com/catalogue/lies-and-other-acts-of-love_596/index.html
+Title Image Source: https://books.toscrape.com/media/cache/29/88/2988f5fb3dfd95214dba2ecb2d496c94.jpg
+Book Price: Â£45.14
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Daredevils
+Book Link: https://books.toscrape.com/catalogue/daredevils_590/index.html
+Title Image Source: https://books.toscrape.com/media/cache/31/71/31715c5e3b53bf1e2f41e394f024a8c4.jpg
+Book Price: Â£16.34
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: 11/22/63
+Book Link: https://books.toscrape.com/catalogue/112263_583/index.html
+Title Image Source: https://books.toscrape.com/media/cache/f6/c5/f6c5d27eacb123238f28a32263694d74.jpg
+Book Price: Â£48.48
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Shack
+Book Link: https://books.toscrape.com/catalogue/the-shack_576/index.html
+Title Image Source: https://books.toscrape.com/media/cache/20/8b/208b77faac57115ae239391fe2a64c86.jpg
+Book Price: Â£28.03
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The High Mountains of ...
+Book Link: https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html
+Title Image Source: https://books.toscrape.com/media/cache/55/00/550091fc134bbe67f562d95a6d6313f7.jpg
+Book Price: Â£51.15
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Miller's Valley
+Book Link: https://books.toscrape.com/catalogue/millers-valley_534/index.html
+Title Image Source: https://books.toscrape.com/media/cache/dc/1a/dc1a54201eff16a11e7d84eef5ea36c7.jpg
+Book Price: Â£58.54
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: Hystopia: A Novel
+Book Link: https://books.toscrape.com/catalogue/hystopia-a-novel_523/index.html
+Title Image Source: https://books.toscrape.com/media/cache/2d/7b/2d7b77d8b45b2f8e1bc0ce20aacddad0.jpg
+Book Price: Â£21.96
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The Bourne Identity (Jason ...
+Book Link: https://books.toscrape.com/catalogue/the-bourne-identity-jason-bourne-1_492/index.html
+Title Image Source: https://books.toscrape.com/media/cache/40/8d/408d93b27ce8c9cfb3bf66c17e9a54ab.jpg
+Book Price: Â£42.78
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: Sister Dear
+Book Link: https://books.toscrape.com/catalogue/sister-dear_485/index.html
+Title Image Source: https://books.toscrape.com/media/cache/fa/57/fa570b7a0fb42252f61e1e750c79d417.jpg
+Book Price: Â£40.20
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: Memoirs of a Geisha
+Book Link: https://books.toscrape.com/catalogue/memoirs-of-a-geisha_477/index.html
+Title Image Source: https://books.toscrape.com/media/cache/41/80/4180406c788ff3e0f37cd4491a260a5b.jpg
+Book Price: Â£49.67
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Me Before You (Me ...
+Book Link: https://books.toscrape.com/catalogue/me-before-you-me-before-you-1_434/index.html
+Title Image Source: https://books.toscrape.com/media/cache/a2/cd/a2cd0016b37c0407059147e58e14afe5.jpg
+Book Price: Â£19.02
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Deception Point
+Book Link: https://books.toscrape.com/catalogue/deception-point_426/index.html
+Title Image Source: https://books.toscrape.com/media/cache/fa/2d/fa2d3198b7ba9785e0edd6f41b84d72b.jpg
+Book Price: Â£40.32
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The Little Paris Bookshop
+Book Link: https://books.toscrape.com/catalogue/the-little-paris-bookshop_407/index.html
+Title Image Source: https://books.toscrape.com/media/cache/50/a9/50a901fb008c0b8965c8d4da2dff5470.jpg
+Book Price: Â£24.73
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Firm
+Book Link: https://books.toscrape.com/catalogue/the-firm_404/index.html
+Title Image Source: https://books.toscrape.com/media/cache/95/84/95847132a78de44b7249a2d0a3fe3ef6.jpg
+Book Price: Â£45.56
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Expatriates
+Book Link: https://books.toscrape.com/catalogue/the-expatriates_401/index.html
+Title Image Source: https://books.toscrape.com/media/cache/db/e4/dbe49e1cb06136eeb51182f551ccdc52.jpg
+Book Price: Â£44.58
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: Siddhartha
+Book Link: https://books.toscrape.com/catalogue/siddhartha_393/index.html
+Title Image Source: https://books.toscrape.com/media/cache/ce/0b/ce0be2d86e388540122c222306c6d62c.jpg
+Book Price: Â£34.22
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Last One Home (New ...
+Book Link: https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html
+Title Image Source: https://books.toscrape.com/media/cache/e4/0a/e40a336622fe578699be5a1eeba18f9d.jpg
+Book Price: Â£59.98
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Digital Fortress
+Book Link: https://books.toscrape.com/catalogue/digital-fortress_369/index.html
+Title Image Source: https://books.toscrape.com/media/cache/5c/77/5c770b251d27aeef263f8ae974ca02e0.jpg
+Book Price: Â£58.00
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Atlas Shrugged
+Book Link: https://books.toscrape.com/catalogue/atlas-shrugged_314/index.html
+Title Image Source: https://books.toscrape.com/media/cache/a5/4f/a54fea8d034eba2ee4d1b8af30f1a308.jpg
+Book Price: Â£26.58
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Three-Martini Lunch
+Book Link: https://books.toscrape.com/catalogue/three-martini-lunch_290/index.html
+Title Image Source: https://books.toscrape.com/media/cache/1d/8e/1d8eb8aaebd14464fc58a681091b8d45.jpg
+Book Price: Â£23.21
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Nightingale
+Book Link: https://books.toscrape.com/catalogue/the-nightingale_267/index.html
+Title Image Source: https://books.toscrape.com/media/cache/77/aa/77aa0ef1f62a0b0b40000a81f65c4e65.jpg
+Book Price: Â£26.26
+Star Rate:: Four
+Stock Availability: In stock
+
+Book Title: The Infinities
+Book Link: https://books.toscrape.com/catalogue/the-infinities_257/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9c/44/9c445b33d53b3810f1c12f4adad71a27.jpg
+Book Price: Â£27.41
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The Husband's Secret
+Book Link: https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html
+Title Image Source: https://books.toscrape.com/media/cache/f0/5b/f05be79a4b319e24819c318e35e6963c.jpg
+Book Price: Â£52.51
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Da Vinci Code ...
+Book Link: https://books.toscrape.com/catalogue/the-da-vinci-code-robert-langdon-2_240/index.html
+Title Image Source: https://books.toscrape.com/media/cache/cf/d5/cfd553eaa00f4d6091c459081cd98199.jpg
+Book Price: Â£22.96
+Star Rate:: Two
+Stock Availability: In stock
+
+Book Title: The Art of Fielding
+Book Link: https://books.toscrape.com/catalogue/the-art-of-fielding_228/index.html
+Title Image Source: https://books.toscrape.com/media/cache/68/a6/68a6112c857e595c684f2a1a3287ba16.jpg
+Book Price: Â£22.10
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Lila (Gilead #3)
+Book Link: https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html
+Title Image Source: https://books.toscrape.com/media/cache/2b/99/2b99a765a013979637b4a6726bfb10f5.jpg
+Book Price: Â£12.47
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Jurassic Park (Jurassic Park ...
+Book Link: https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9a/71/9a7160b396790bd4a351522278de4f8c.jpg
+Book Price: Â£44.97
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: Inferno (Robert Langdon #4)
+Book Link: https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
+Title Image Source: https://books.toscrape.com/media/cache/e3/11/e3111146083821b5a3670d869ab40d2a.jpg
+Book Price: Â£41.00
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Crazy Rich Asians (Crazy ...
+Book Link: https://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9a/62/9a621372fed3a80015283013d8a452cd.jpg
+Book Price: Â£49.13
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Big Little Lies
+Book Link: https://books.toscrape.com/catalogue/big-little-lies_129/index.html
+Title Image Source: https://books.toscrape.com/media/cache/ef/b7/efb72b546fc7cab4ba1735b4b82c5851.jpg
+Book Price: Â£22.11
+Star Rate:: One
+Stock Availability: In stock
+
+Book Title: The Course of Love
+Book Link: https://books.toscrape.com/catalogue/the-course-of-love_109/index.html
+Title Image Source: https://books.toscrape.com/media/cache/f2/c9/f2c952cfbce6ab5d8400a0bb8ee4eb5c.jpg
+Book Price: Â£16.78
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: When I'm Gone
+Book Link: https://books.toscrape.com/catalogue/when-im-gone_95/index.html
+Title Image Source: https://books.toscrape.com/media/cache/13/a3/13a361d57f2b6021b2ae395a6fedd475.jpg
+Book Price: Â£51.96
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: The Silent Wife
+Book Link: https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
+Title Image Source: https://books.toscrape.com/media/cache/9b/a3/9ba37429e4a2307fe0b2f4f4162dd636.jpg
+Book Price: Â£12.34
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: The Bette Davis Club
+Book Link: https://books.toscrape.com/catalogue/the-bette-davis-club_59/index.html
+Title Image Source: https://books.toscrape.com/media/cache/23/08/2308bf77130cf0a917642d82dbf4be05.jpg
+Book Price: Â£30.66
+Star Rate:: Three
+Stock Availability: In stock
+
+Book Title: Kitchens of the Great ...
+Book Link: https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html
+Title Image Source: https://books.toscrape.com/media/cache/5e/37/5e379c1cc7003127bc74257a1b721540.jpg
+Book Price: Â£57.20
+Star Rate:: Five
+Stock Availability: In stock
+
+Book Title: Bright Lines
+Book Link: https://books.toscrape.com/catalogue/bright-lines_11/index.html
+Title Image Source: https://books.toscrape.com/media/cache/12/43/1243e7eb614f57f0e4cfee80553fa312.jpg
+Book Price: Â£39.07
+Star Rate:: Five
 Stock Availability: In stock
 
