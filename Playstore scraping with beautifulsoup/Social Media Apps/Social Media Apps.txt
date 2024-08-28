@@ -1,0 +1,150 @@
+App_Name: Instagram
+App_Link: https://play.google.com/store/apps/details?id=com.instagram.android
+Organization: Instagram
+Rating: 4.0
+
+App_Name: Facebook
+App_Link: https://play.google.com/store/apps/details?id=com.facebook.katana
+Organization: Meta Platforms, Inc.
+Rating: 4.5
+
+App_Name: Discord - Talk, Play, Hang Out
+App_Link: https://play.google.com/store/apps/details?id=com.discord
+Organization: Discord Inc.
+Rating: 3.1
+
+App_Name: Snapchat
+App_Link: https://play.google.com/store/apps/details?id=com.snapchat.android
+Organization: Snap Inc
+Rating: 4.1
+
+App_Name: Tumblr—Fandom, Art, Chaos
+App_Link: https://play.google.com/store/apps/details?id=com.tumblr
+Organization: Tumblr, Inc
+Rating: 4.0
+
+App_Name: X
+App_Link: https://play.google.com/store/apps/details?id=com.twitter.android
+Organization: X Corp.
+Rating: 3.7
+
+App_Name: Threads
+App_Link: https://play.google.com/store/apps/details?id=com.instagram.barcelona
+Organization: Instagram
+Rating: 4.1
+
+App_Name: Reddit
+App_Link: https://play.google.com/store/apps/details?id=com.reddit.frontpage
+Organization: reddit Inc.
+Rating: 4.3
+
+App_Name: Facebook Lite
+App_Link: https://play.google.com/store/apps/details?id=com.facebook.lite
+Organization: Meta Platforms, Inc.
+Rating: 3.9
+
+App_Name: LinkedIn: Jobs & Business News
+App_Link: https://play.google.com/store/apps/details?id=com.linkedin.android
+Organization: LinkedIn
+Rating: 4.1
+
+App_Name: VK: music, video, messenger
+App_Link: https://play.google.com/store/apps/details?id=com.vkontakte.android
+Organization: VK.com
+Rating: 3.8
+
+App_Name: TikTok
+App_Link: https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically
+Organization: TikTok Pte. Ltd.
+Rating: 4.2
+
+App_Name: Clubhouse
+App_Link: https://play.google.com/store/apps/details?id=com.clubhouse.app
+Organization: Alpha Exploration Co.
+Rating: 4.0
+
+App_Name: BeReal. Your friends for real.
+App_Link: https://play.google.com/store/apps/details?id=com.bereal.ft
+Organization: BeReal
+Rating: 3.8
+
+App_Name: Clapper: Video, Live, Chat
+App_Link: https://play.google.com/store/apps/details?id=com.newsclapper.video
+Organization: Clapper Media Group Inc.
+Rating: 4.4
+
+App_Name: Yubo: Make new friends
+App_Link: https://play.google.com/store/apps/details?id=co.yellw.yellowapp
+Organization: Twelve APP
+Rating: 4.0
+
+App_Name: Truth Social
+App_Link: https://play.google.com/store/apps/details?id=com.truthsocial.android.app
+Organization: T Media Tech LLC
+Rating: 3.5
+
+App_Name: Pinterest
+App_Link: https://play.google.com/store/apps/details?id=com.pinterest
+Organization: Pinterest
+Rating: 4.5
+
+App_Name: MeWe
+App_Link: https://play.google.com/store/apps/details?id=com.mewe
+Organization: MeWe
+Rating: 4.2
+
+App_Name: Quora: the knowledge platform
+App_Link: https://play.google.com/store/apps/details?id=com.quora.android
+Organization: Quora, Inc.
+Rating: 4.4
+
+App_Name: GETTR
+App_Link: https://play.google.com/store/apps/details?id=com.gettr.gettr
+Organization: GETTR USA
+Rating: 4.3
+
+App_Name: Twitch: Live Streaming
+App_Link: https://play.google.com/store/apps/details?id=tv.twitch.android.app
+Organization: Twitch Interactive, Inc.
+Rating: 4.3
+
+App_Name: ZEPETO: Avatar, Connect & Live
+App_Link: https://play.google.com/store/apps/details?id=me.zepeto.main
+Organization: Naver Z Corporation
+Rating: 4.4
+
+App_Name: Likee - Short Video Community
+App_Link: https://play.google.com/store/apps/details?id=video.like
+Organization: Likeme Pte. Ltd.
+Rating: 4.4
+
+App_Name: Bigo Live - Live Streaming App
+App_Link: https://play.google.com/store/apps/details?id=sg.bigo.live
+Organization: Bigo Technology Pte. Ltd.
+Rating: 4.5
+
+App_Name: Plato: Fun Multiplayer Games
+App_Link: https://play.google.com/store/apps/details?id=com.plato.android
+Organization: Plato Team Inc.
+Rating: 4.6
+
+App_Name: Tango- Live Stream, Video Chat
+App_Link: https://play.google.com/store/apps/details?id=com.sgiggle.production
+Organization: Tango
+Rating: 4.4
+
+App_Name: ويبلاي - ألعاب ودردشة
+App_Link: https://play.google.com/store/apps/details?id=com.wejoy.weplay.ar
+Organization: WEJOY Pte. Ltd.
+Rating: 4.2
+
+App_Name: weverse
+App_Link: https://play.google.com/store/apps/details?id=co.benx.weverse
+Organization: WEVERSE COMPANY Inc.
+Rating: 4.5
+
+App_Name: Buffer: Social Media Scheduler
+App_Link: https://play.google.com/store/apps/details?id=org.buffer.android
+Organization: Buffer, Inc
+Rating: 4.3
+

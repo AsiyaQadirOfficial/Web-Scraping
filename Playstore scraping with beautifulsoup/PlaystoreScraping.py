@@ -20,7 +20,7 @@ def playstore_apps():
 
 
         organization = app.find('span', class_='wMUdtb')
-        organization.get_text() if organization else "Not Found!"  
+        organization = organization.get_text() if organization else "Not Found!"  
         # print(f'Organization: {organization}')
 
 
@@ -42,13 +42,10 @@ def playstore_apps():
 def app_details(url):
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Raises an HTTPError for bad responses
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
-        # print(soup.prettify())
-
 
         current_url = url
-
             
         app_name = soup.find('h1', class_='Fd93Bb F5UCq p5VxAd') 
         if app_name:
@@ -92,25 +89,25 @@ def app_details(url):
         # print(f'Reviews: {reviews}')
 
 
-        website = soup.find('a', class_='Si6A0c RrSxVb')
+        website = soup.find('a', class_='Si6A0c RrSxVb') 
         website = website.get('href') if website else 'Not Found!'
         # print(f'Website: {website}')
-        
-
-        support_email = soup.find('div', class_='pSEeg')
-        support_email = support_email.get_text() if support_email else 'Not Found!'
-        # print(f'Support_Email: {support_email}\n')
 
 
+        app_support = soup.find('div', class_='pSEeg')
+        app_support = app_support.get_text() if app_support else 'Not Found!'
+        # print(f'app_support: {app_support}')
 
-        if all(value != 'Not Found!' for value in [app_name, org_name, dev_link, reviews, website, support_email]):
+
+
+        if all(value != 'Not Found!' for value in [app_name, org_name, dev_link, rating, reviews]):
             with open(f'{query}/app_details.txt', 'a+', encoding='utf-8') as file:
                 file.write(f'App_Link: {current_url}\n')
                 file.write(f'App_Name: {app_name}\n')
                 file.write(f'Rating: {rating}\n')
                 file.write(f'Reviews: {reviews}\n')
                 file.write(f'Website: {website}\n')
-                file.write(f'Support_Email: {support_email}\n')
+                file.write(f'App_Support: {app_support}\n')
                 file.write(f'Organization_Name: {org_name}\n')
                 file.write(f'Developer_Page_Link: {dev_link}\n\n')
                 file.write('--------------------------------------\n\n')
@@ -119,16 +116,12 @@ def app_details(url):
         print(f"Failed to process URL {url}: {e}")
 
 
-def developer_apps():
-    pass
-
-
-query = "Editors"
+# query = input('Please Enter the Query here: ')
+query = 'Editors'
 url = f"https://play.google.com/store/search?q={query}&c=apps"
 
 html_content = requests.get(url).text 
 soup = BeautifulSoup(html_content, 'html.parser')
-# print(soup.prettify())
 
 
 os.makedirs(query, exist_ok=True)
@@ -142,27 +135,17 @@ with open(f"{query}/{query}.txt", "w+", encoding='utf-8'):
 
 with open(f'{query}/{query}.txt','r') as f:
     content = f.readlines()
-    with open(f'{query}/app_details.txt', 'w+', encoding='utf-8') as f:
-
+    with open(f'{query}/app_details.txt', 'w+', encoding='utf-8'):
         for data in content:
             try:
                 if 'App_Link' in data:
                     urls = data.split('App_Link: ')[1:]
-                    # urls = '\n'.join(urls)
-                    # apk = data.split('=')[1]
-                    # print(f'urls: {urls}')
-
                     for url in urls:
                         url = url.strip()
-                        # print(len(url))
-                        # print(f'url: {url}')
-
                         if url:
                             app_page = app_details(url)
                         else:
                             print(f"Invalid URL found: {url}")
             except Exception as e:
                 print(f"An error occurred: {e}")
-
-
 

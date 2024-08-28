@@ -1,80 +1,150 @@
-App_Name: Video Editor & Maker - InShot
-App_Link: https://play.google.com/store/apps/details?id=com.camerasideas.instashot
-Organization: InShot Video Editor
-Rating: 4.8
+App_Name: CapCut - Video Editor
+App_Link: https://play.google.com/store/apps/details?id=com.lemon.lvoverseas
+Organization: Bytedance Pte. Ltd.
+Rating: 4.2
 
 App_Name: Picsart: AI Photo Video Editor
 App_Link: https://play.google.com/store/apps/details?id=com.picsart.studio
 Organization: PicsArt, Inc.
 Rating: 4.0
 
+App_Name: Video Editor & Maker - InShot
+App_Link: https://play.google.com/store/apps/details?id=com.camerasideas.instashot
+Organization: InShot Video Editor
+Rating: 4.8
+
 App_Name: YouCut - Video Editor & Maker
 App_Link: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
 Organization: InShot Video Editor
 Rating: 4.8
-
-App_Name: Canva: Design, Art & AI Editor
-App_Link: https://play.google.com/store/apps/details?id=com.canva.editor
-Organization: Canva
-Rating: 4.8
-
-App_Name: CapCut - Video Editor
-App_Link: https://play.google.com/store/apps/details?id=com.lemon.lvoverseas
-Organization: Bytedance Pte. Ltd.
-Rating: 4.2
 
 App_Name: Lightroom Photo & Video Editor
 App_Link: https://play.google.com/store/apps/details?id=com.adobe.lrmobile
 Organization: Adobe
 Rating: 4.6
 
-App_Name: Photoroom AI Photo Editor
-App_Link: https://play.google.com/store/apps/details?id=com.photoroom.app
-Organization: Photoroom AI Photo Editor
-Rating: 4.7
-
-App_Name: Video Maker
-App_Link: https://play.google.com/store/apps/details?id=videoeditor.videomaker.videoeditorforyoutube
-Organization: InShot Video Editor
+App_Name: Canva: Design, Art & AI Editor
+App_Link: https://play.google.com/store/apps/details?id=com.canva.editor
+Organization: Canva
 Rating: 4.8
-
-App_Name: KineMaster-Video Editor&Maker
-App_Link: https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree
-Organization: KineMaster, Video Editor Experts Group
-Rating: 4.2
-
-App_Name: VSCO: Photo & Video Editor
-App_Link: https://play.google.com/store/apps/details?id=com.vsco.cam
-Organization: VSCO
-Rating: 3.3
-
-App_Name: Snapseed
-App_Link: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed
-Organization: Google LLC
-Rating: 4.2
 
 App_Name: Filmora：AI Video Editor, Maker
 App_Link: https://play.google.com/store/apps/details?id=com.wondershare.filmorago
 Organization: Wondershare Filmora
 Rating: 4.5
 
-App_Name: AI Photo Editor - Polish
-App_Link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro
-Organization: InShot Inc.
-Rating: 4.9
-
-App_Name: AI Photo Editor - Lumii
-App_Link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.filtersforpictures
-Organization: InShot Video Editor
-Rating: 4.8
+App_Name: KineMaster-Video Editor&Maker
+App_Link: https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree
+Organization: KineMaster, Video Editor Experts Group
+Rating: 4.2
 
 App_Name: PowerDirector - Video Editor
 App_Link: https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01
 Organization: Cyberlink Corp
 Rating: 4.4
 
+App_Name: Snapseed
+App_Link: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed
+Organization: Google LLC
+Rating: 4.2
+
+App_Name: Video Maker
+App_Link: https://play.google.com/store/apps/details?id=videoeditor.videomaker.videoeditorforyoutube
+Organization: InShot Video Editor
+Rating: 4.8
+
+App_Name: Photoroom AI Photo Editor
+App_Link: https://play.google.com/store/apps/details?id=com.photoroom.app
+Organization: Photoroom AI Photo Editor
+Rating: 4.7
+
+App_Name: AI Photo Editor - Polish
+App_Link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro
+Organization: InShot Inc.
+Rating: 4.8
+
+App_Name: VN - Video Editor & Maker
+App_Link: https://play.google.com/store/apps/details?id=com.frontrow.vlog
+Organization: Ubiquiti Labs, LLC
+Rating: 4.7
+
 App_Name: Photoshop Express Photo Editor
 App_Link: https://play.google.com/store/apps/details?id=com.adobe.psmobile
 Organization: Adobe
 Rating: 4.6
+
+App_Name: AI Photo Editor - Lumii
+App_Link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.filtersforpictures
+Organization: InShot Video Editor
+Rating: 4.8
+
+App_Name: VSCO: Photo & Video Editor
+App_Link: https://play.google.com/store/apps/details?id=com.vsco.cam
+Organization: VSCO
+Rating: 3.3
+
+App_Name: Adobe Express: AI Video Design
+App_Link: https://play.google.com/store/apps/details?id=com.adobe.spark.post
+Organization: Adobe
+Rating: 4.5
+
+App_Name: Splice - Video Editor & Maker
+App_Link: https://play.google.com/store/apps/details?id=com.splice.video.editor
+Organization: Bending Spoons
+Rating: 3.8
+
+App_Name: VITA - Video Editor & Maker
+App_Link: https://play.google.com/store/apps/details?id=com.snowcorp.vita
+Organization: SNOW Corporation
+Rating: 4.3
+
+App_Name: YouCam Perfect - Photo Editor
+App_Link: https://play.google.com/store/apps/details?id=com.cyberlink.youperfect
+Organization: Perfect Mobile Corp. Photo & Video Beauty Editor
+Rating: 4.2
+
+App_Name: AI Video Editor: ShotCut AI
+App_Link: https://play.google.com/store/apps/details?id=video.editor.videomaker.effects.fx
+Organization: Shotcut Video Workshop
+Rating: 4.6
+
+App_Name: VivaVideo - Video Editor&Maker
+App_Link: https://play.google.com/store/apps/details?id=com.quvideo.xiaoying
+Organization: QuVideo Inc. Video Editor & Video Maker App
+Rating: 4.4
+
+App_Name: Video Editor APP - VivaCut
+App_Link: https://play.google.com/store/apps/details?id=com.videoeditorpro.android
+Organization: VivaCut professional video editor
+Rating: 4.4
+
+App_Name: Funimate Video Editor & Maker
+App_Link: https://play.google.com/store/apps/details?id=com.avcrbt.funimate
+Organization: Pixery Bilgi Teknolojileri
+Rating: 4.4
+
+App_Name: VLLO, My First Video Editor
+App_Link: https://play.google.com/store/apps/details?id=com.darinsoft.vimo
+Organization: vimosoft
+Rating: 3.9
+
+App_Name: AI Video Editor - Vidma AI Cut
+App_Link: https://play.google.com/store/apps/details?id=vidma.video.editor.videomaker
+Organization: Vidma Video Studio
+Rating: 4.6
+
+App_Name: Hypic - Photo Editor & AI Art
+App_Link: https://play.google.com/store/apps/details?id=com.xt.retouchoversea
+Organization: Bytedance Pte. Ltd.
+Rating: 4.6
+
+App_Name: Video Editor & Maker VideoShow
+App_Link: https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor
+Organization: VIDEOSHOW Video Editor & Maker & AI Chat Generator
+Rating: 4.5
+
+App_Name: Adobe Premiere Rush: Video
+App_Link: https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor
+Organization: Adobe
+Rating: 3.4
 

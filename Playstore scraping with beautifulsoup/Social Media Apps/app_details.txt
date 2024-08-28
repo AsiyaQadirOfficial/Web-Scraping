@@ -1,0 +1,330 @@
+App_Link: https://play.google.com/store/apps/details?id=com.instagram.android
+App_Name: Instagram
+Rating: 4.0star
+Reviews: 156M reviews
+Website: http://help.instagram.com/
+App_Support: android-support@instagram.com
+Organization_Name: Instagram
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Instagram
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.facebook.katana
+App_Name: Facebook
+Rating: 4.5star
+Reviews: 151M reviews
+Website: https://www.facebook.com/facebook
+App_Support: facebook.android@fb.com
+Organization_Name: Meta Platforms, Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Meta+Platforms,+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.discord
+App_Name: Discord - Talk, Play, Hang Out
+Rating: 3.1star
+Reviews: 5.87M reviews
+Website: https://dis.gd/contact
+App_Support: support@discord.com
+Organization_Name: Discord Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Discord+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.snapchat.android
+App_Name: Snapchat
+Rating: 4.1star
+Reviews: 35.7M reviews
+Website: http://www.snapchat.com
+App_Support: snapchat@snap.com
+Organization_Name: Snap Inc
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Snap+Inc
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.tumblr
+App_Name: Tumblr—Fandom, Art, Chaos
+Rating: 4.0star
+Reviews: 3.71M reviews
+Website: https://www.tumblr.com
+App_Support: support@tumblr.com
+Organization_Name: Tumblr, Inc
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Tumblr,+Inc
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.twitter.android
+App_Name: X
+Rating: 3.7star
+Reviews: 22.1M reviews
+Website: https://support.twitter.com/articles/20169915
+App_Support: google-play-emails@twitter.com
+Organization_Name: X Corp.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=X+Corp.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.instagram.barcelona
+App_Name: Threads
+Rating: 4.1star
+Reviews: 633K reviews
+Website: http://help.instagram.com/
+App_Support: android-support@instagram.com
+Organization_Name: Instagram
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Instagram
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.reddit.frontpage
+App_Name: Reddit
+Rating: 4.3star
+Reviews: 3.25M reviews
+Website: https://www.reddit.com/mobile/download
+App_Support: androidsupport@reddit.com
+Organization_Name: reddit Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=reddit+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.facebook.lite
+App_Name: Facebook Lite
+Rating: 3.9star
+Reviews: 27.1M reviews
+Website: https://www.facebook.com/facebook
+App_Support: lite-android-support@fb.com
+Organization_Name: Meta Platforms, Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Meta+Platforms,+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.linkedin.android
+App_Name: LinkedIn: Jobs & Business News
+Rating: 4.1star
+Reviews: 2.93M reviews
+Website: http://www.linkedin.com/
+App_Support: team-mobile@linkedin.com
+Organization_Name: LinkedIn
+Developer_Page_Link: https://play.google.com/store/apps/dev?id=6860682062931868151
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.vkontakte.android
+App_Name: VK: music, video, messenger
+Rating: 3.8star
+Reviews: 9.12M reviews
+Website: https://vk.com/support?act=home&source=gplay_vkontakte
+App_Support: support_gplay@vk.team
+Organization_Name: VK.com
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=VK.com
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically
+App_Name: TikTok
+Rating: 4.2star
+Reviews: 63.6M reviews
+Website: https://www.tiktok.com/
+App_Support: +16506363637
+Organization_Name: TikTok Pte. Ltd.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=TikTok+Pte.+Ltd.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.clubhouse.app
+App_Name: Clubhouse
+Rating: 4.0star
+Reviews: 569K reviews
+Website: https://www.clubhouse.com/
+App_Support: support@clubhouse.com
+Organization_Name: Alpha Exploration Co.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Alpha+Exploration+Co.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.bereal.ft
+App_Name: BeReal. Your friends for real.
+Rating: 3.8star
+Reviews: 305K reviews
+Website: https://bereal.com
+App_Support: contact@bere.al
+Organization_Name: BeReal
+Developer_Page_Link: https://play.google.com/store/apps/dev?id=8672611700495170178
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.newsclapper.video
+App_Name: Clapper: Video, Live, Chat
+Rating: 4.4star
+Reviews: 20.5K reviews
+Website: https://clapperapp.com
+App_Support: developer@clapperapp.com
+Organization_Name: Clapper Media Group Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Clapper+Media+Group+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=co.yellw.yellowapp
+App_Name: Yubo: Make new friends
+Rating: 4.0star
+Reviews: 347K reviews
+Website: https://yubo.live
+App_Support: yubo@yubo.live
+Organization_Name: Twelve APP
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Twelve+APP
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.truthsocial.android.app
+App_Name: Truth Social
+Rating: 3.5star
+Reviews: 17.5K reviews
+Website: https://truthsocial.com
+App_Support: support@truthsocial.com
+Organization_Name: T Media Tech LLC
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=T+Media+Tech+LLC
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.pinterest
+App_Name: Pinterest
+Rating: 4.5star
+Reviews: 10.6M reviews
+Website: https://help.pinterest.com
+App_Support: help@pinterest.com
+Organization_Name: Pinterest
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Pinterest
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.mewe
+App_Name: MeWe
+Rating: 4.2star
+Reviews: 186K reviews
+Website: http://mewe.com
+App_Support: feedback@mewe.com
+Organization_Name: MeWe
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=MeWe
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.quora.android
+App_Name: Quora: the knowledge platform
+Rating: 4.4star
+Reviews: 995K reviews
+Website: http://www.quora.com
+App_Support: +16504852464
+Organization_Name: Quora, Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Quora,+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.gettr.gettr
+App_Name: GETTR
+Rating: 4.3star
+Reviews: 98K reviews
+Website: https://gettr.com
+App_Support: +13475838709
+Organization_Name: GETTR USA
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=GETTR+USA
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=tv.twitch.android.app
+App_Name: Twitch: Live Streaming
+Rating: 4.3star
+Reviews: 5.43M reviews
+Website: https://www.twitch.tv
+App_Support: +18888003173
+Organization_Name: Twitch Interactive, Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Twitch+Interactive,+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=me.zepeto.main
+App_Name: ZEPETO: Avatar, Connect & Live
+Rating: 4.4star
+Reviews: 2.59M reviews
+Website: https://zepeto.me/
+App_Support: googleplay@zepeto.me
+Organization_Name: Naver Z Corporation
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Naver+Z+Corporation
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=video.like
+App_Name: Likee - Short Video Community
+Rating: 4.4star
+Reviews: 11.7M reviews
+Website: https://likee.video/
+App_Support: feedback@likee.video
+Organization_Name: Likeme Pte. Ltd.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Likeme+Pte.+Ltd.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=sg.bigo.live
+App_Name: Bigo Live - Live Streaming App
+Rating: 4.5star
+Reviews: 5.95M reviews
+Website: https://www.bigo.tv/
+App_Support: feedback@bigo.tv
+Organization_Name: Bigo Technology Pte. Ltd.
+Developer_Page_Link: https://play.google.com/store/apps/dev?id=4859973809643210411
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.plato.android
+App_Name: Plato: Fun Multiplayer Games
+Rating: 4.6star
+Reviews: 616K reviews
+Website: https://www.platoapp.com/faq
+App_Support: hello+googleplay@platoapp.com
+Organization_Name: Plato Team Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=Plato+Team+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.sgiggle.production
+App_Name: Tango- Live Stream, Video Chat
+Rating: 4.4star
+Reviews: 4.64M reviews
+Website: https://business.tango.me/
+App_Support: support@tango.me
+Organization_Name: Tango
+Developer_Page_Link: https://play.google.com/store/apps/dev?id=8737235647131488610
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=com.wejoy.weplay.ar
+App_Name: ويبلاي - ألعاب ودردشة
+Rating: 4.2star
+Reviews: 330K reviews
+Website: https://weplayapp.com/
+App_Support: wejoy.law@gmail.com
+Organization_Name: WEJOY Pte. Ltd.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=WEJOY+Pte.+Ltd.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=co.benx.weverse
+App_Name: weverse
+Rating: 4.5star
+Reviews: 858K reviews
+Website: https://www.weverse.io
+App_Support: support@weverse.io
+Organization_Name: WEVERSE COMPANY Inc.
+Developer_Page_Link: https://play.google.com/store/apps/developer?id=WEVERSE+COMPANY+Inc.
+
+--------------------------------------
+
+App_Link: https://play.google.com/store/apps/details?id=org.buffer.android
+App_Name: Buffer: Social Media Scheduler
+Rating: 4.3star
+Reviews: 50K reviews
+Website: http://buffer.com
+App_Support: hello@bufferapp.com
+Organization_Name: Buffer, Inc
+Developer_Page_Link: https://play.google.com/store/apps/dev?id=6942868991117147695
+
+--------------------------------------
+
