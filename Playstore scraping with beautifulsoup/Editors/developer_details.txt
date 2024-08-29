@@ -1,0 +1,819 @@
+Bytedance Pte. Ltd.
+dev_app_name: CapCut - Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.lemon.lvoverseas
+Rating: 4.2
+
+--------------------------------------
+
+Bytedance Pte. Ltd.
+dev_app_name: Hypic - Photo Editor & AI Art
+dev_app_link: https://play.google.com/store/apps/details?id=com.xt.retouchoversea
+Rating: 4.5
+
+--------------------------------------
+
+More by PicsArt, Inc.
+dev_app_name: Picsart: AI Photo Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.picsart.studio
+Rating: 4.0star
+
+--------------------------------------
+
+More by PicsArt, Inc.
+dev_app_name: Picsart Color - Painting, Draw
+dev_app_link: https://play.google.com/store/apps/details?id=com.picsart.draw
+Rating: 3.6star
+
+--------------------------------------
+
+More by PicsArt, Inc.
+dev_app_name: Picsart Animator: GIF & Video
+dev_app_link: https://play.google.com/store/apps/details?id=com.picsart.animate
+Rating: 3.3star
+
+--------------------------------------
+
+More by PicsArt, Inc.
+dev_app_name: PixelArt: Color by Number, San
+dev_app_link: https://play.google.com/store/apps/details?id=com.picsart.coloring
+Rating: 4.2star
+
+--------------------------------------
+
+InShot Video Editor
+dev_app_name: Video Editor & Maker - InShot
+dev_app_link: https://play.google.com/store/apps/details?id=com.camerasideas.instashot
+Rating: 4.8
+
+--------------------------------------
+
+InShot Video Editor
+dev_app_name: YouCut - Video Editor & Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.camerasideas.trimmer
+Rating: 4.8
+
+--------------------------------------
+
+InShot Video Editor
+dev_app_name: AI Photo Editor - Lumii
+dev_app_link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.filtersforpictures
+Rating: 4.8
+
+--------------------------------------
+
+InShot Video Editor
+dev_app_name: Video Maker
+dev_app_link: https://play.google.com/store/apps/details?id=videoeditor.videomaker.videoeditorforyoutube
+Rating: 4.8
+
+--------------------------------------
+
+InShot Video Editor
+dev_app_name: Peachy - AI Face & Body Editor
+dev_app_link: https://play.google.com/store/apps/details?id=peachy.bodyeditor.faceapp
+Rating: 4.7
+
+--------------------------------------
+
+More by Canva
+dev_app_name: Canva: Design, Art & AI Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.canva.editor
+Rating: 4.8star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Acrobat Reader: Edit PDF
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.reader
+Rating: 4.6star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Express: AI Video Design
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.spark.post
+Rating: 4.5star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Scan: PDF Scanner, OCR
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.scan.android
+Rating: 4.7star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Lightroom Photo & Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.lrmobile
+Rating: 4.6star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Photoshop Express Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.psmobile
+Rating: 4.6star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Creative Cloud
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.cc
+Rating: 4.3star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Digital Editions
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.digitaleditions
+Rating: 1.7star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Capture: Illustrator,Ps
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.creativeapps.gather
+Rating: 4.6star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Premiere Rush: Video
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor
+Rating: 3.4star
+
+--------------------------------------
+
+More by Adobe
+dev_app_name: Adobe Connect
+dev_app_link: https://play.google.com/store/apps/details?id=com.adobe.connect.android.mobile
+Rating: 3.5star
+
+--------------------------------------
+
+Bending Spoons
+dev_app_name: Remini - AI Photo Enhancer
+dev_app_link: https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international
+Rating: 4.0
+
+--------------------------------------
+
+Bending Spoons
+dev_app_name: Splice - Video Editor & Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.splice.video.editor
+Rating: 3.8
+
+--------------------------------------
+
+Bending Spoons
+dev_app_name: 30 Day Fitness - Home Workout
+dev_app_link: https://play.google.com/store/apps/details?id=com.bendingspoons.thirtydayfitness
+Rating: 4.8
+
+--------------------------------------
+
+Bending Spoons
+dev_app_name: Filmic Pro: Mobile Cine Camera
+dev_app_link: https://play.google.com/store/apps/details?id=com.filmic.filmicpro
+Rating: 2.4
+
+--------------------------------------
+
+Bending Spoons
+dev_app_name: Sleep
+dev_app_link: https://play.google.com/store/apps/details?id=com.bendingspoons.sleep
+Rating: 4.6
+
+--------------------------------------
+
+More by Wondershare Filmora
+dev_app_name: Filmora：AI Video Editor, Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.wondershare.filmorago
+Rating: 4.5star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Messages
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.messaging
+Rating: 4.3star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Gemini
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.bard
+Rating: 4.4star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Authenticator
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+Rating: 3.9star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Translate
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.translate
+Rating: 4.2star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Wallet
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel
+Rating: 4.4star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Find My Device
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.adm
+Rating: 4.3star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: YouTube Kids
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids
+Rating: 4.2star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: YouTube TV: Live TV & more
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged
+Rating: 4.0star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Classroom
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.classroom
+Rating: 2.5star
+
+--------------------------------------
+
+More by Google LLC
+dev_app_name: Google Docs
+dev_app_link: https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs
+Rating: 4.1star
+
+--------------------------------------
+
+More by Photoroom AI Photo Editor
+dev_app_name: Photoroom AI Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.photoroom.app
+Rating: 4.7star
+
+--------------------------------------
+
+More by Ubiquiti Labs, LLC
+dev_app_name: VN - Video Editor & Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.frontrow.vlog
+Rating: 4.7star
+
+--------------------------------------
+
+More by Ubiquiti Labs, LLC
+dev_app_name: Flow Studio: Photo & Design
+dev_app_link: https://play.google.com/store/apps/details?id=com.frontrow.flow
+Rating: 4.5star
+
+--------------------------------------
+
+More by Ubiquiti Labs, LLC
+dev_app_name: FrontRow: Reinventing the Came
+dev_app_link: https://play.google.com/store/apps/details?id=com.frontrow.app
+Rating: 4.1star
+
+--------------------------------------
+
+More by KineMaster, Video Editor Experts Group
+dev_app_name: KineMaster-Video Editor&Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree
+Rating: 4.2star
+
+--------------------------------------
+
+More by KineMaster, Video Editor Experts Group
+dev_app_name: Spring - Video Editor & Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.kinemaster.app.spring
+Rating: 4.1star
+
+--------------------------------------
+
+More by KineMaster, Video Editor Experts Group
+dev_app_name: BeatSync - Quick & Easy Videos
+dev_app_link: https://play.google.com/store/apps/details?id=com.kinemaster.app.beatsync
+Rating: 4.4star
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: AI Photo Editor - Polish
+dev_app_link: https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Screen Recorder - XRecorder
+dev_app_link: https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Music Player & MP3 Player
+dev_app_link: https://play.google.com/store/apps/details?id=musicplayer.musicapps.music.mp3player
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Video Downloader
+dev_app_link: https://play.google.com/store/apps/details?id=video.downloader.videodownloader
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Cast to TV, Chromecast & Roku
+dev_app_link: https://play.google.com/store/apps/details?id=cast.video.screenmirroring.casttotv
+Rating: 4.5
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Pic Retouch - Remove Objects
+dev_app_link: https://play.google.com/store/apps/details?id=photoeditor.photoretouch.removeobjects.retouch
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: File Manager
+dev_app_link: https://play.google.com/store/apps/details?id=files.fileexplorer.filemanager
+Rating: 4.7
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Video Player All Format
+dev_app_link: https://play.google.com/store/apps/details?id=video.player.videoplayer
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Video to MP3 - Video to Audio
+dev_app_link: https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: MP3 Cutter and Ringtone Maker
+dev_app_link: https://play.google.com/store/apps/details?id=ringtone.maker.mp3.cutter.audio
+Rating: 4.7
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: File Sharing - InShare
+dev_app_link: https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Video Editor&Maker - VideoCook
+dev_app_link: https://play.google.com/store/apps/details?id=glitchvideoeditor.videoeffects.glitchvideoeffect
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: App Lock - Lock Apps, Password
+dev_app_link: https://play.google.com/store/apps/details?id=applock.lockapps.fingerprint.password.locker
+Rating: 4.8
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Gallery - Album, Photo Vault
+dev_app_link: https://play.google.com/store/apps/details?id=gallery.hidepictures.photovault.lockgallery
+Rating: 4.6
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Screen Mirroring - Miracast
+dev_app_link: https://play.google.com/store/apps/details?id=screen.mirroring.screenmirroring
+Rating: 4.3
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Photo Editor & Photo Effects
+dev_app_link: https://play.google.com/store/apps/details?id=com.inshot.neonphotoeditor
+Rating: 4.9
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: QR Code Scanner & Barcode
+dev_app_link: https://play.google.com/store/apps/details?id=qrscanner.barcodescanner.barcodereader.qrcodereader
+Rating: 4.7
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Ringtones songs - RingWall
+dev_app_link: https://play.google.com/store/apps/details?id=freeringtonesforandroid.bestringtoneapp.ringtone
+Rating: 4.7
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: All Video Downloader - V
+dev_app_link: https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader
+Rating: 4.6
+
+--------------------------------------
+
+InShot Inc.
+dev_app_name: Screen Recorder - XRec Lite
+dev_app_link: https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder.lite
+Rating: 4.7
+
+--------------------------------------
+
+More by Cyberlink Corp
+dev_app_name: PowerDirector - Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01
+Rating: 4.4star
+
+--------------------------------------
+
+More by Cyberlink Corp
+dev_app_name: PhotoDirector: AI Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.photodirector
+Rating: 4.2star
+
+--------------------------------------
+
+More by Cyberlink Corp
+dev_app_name: Vivid AI: AI Image Generator
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.vividai
+Rating: 2.9star
+
+--------------------------------------
+
+More by Cyberlink Corp
+dev_app_name: ActionDirector - Video Editing
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.actiondirector
+Rating: 4.5star
+
+--------------------------------------
+
+More by Cyberlink Corp
+dev_app_name: Promeo - Story & Reels Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.addirector
+Rating: 4.6star
+
+--------------------------------------
+
+More by VSCO
+dev_app_name: VSCO: Photo & Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.vsco.cam
+Rating: 3.3star
+
+--------------------------------------
+
+More by Perfect Mobile Corp. Photo & Video Beauty Editor
+dev_app_name: YouCam Makeup - Selfie Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.youcammakeup
+Rating: 4.3star
+
+--------------------------------------
+
+More by Perfect Mobile Corp. Photo & Video Beauty Editor
+dev_app_name: YouCam Perfect - Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.cyberlink.youperfect
+Rating: 4.2star
+
+--------------------------------------
+
+More by Perfect Mobile Corp. Photo & Video Beauty Editor
+dev_app_name: YouCam Video Editor & Retouch
+dev_app_link: https://play.google.com/store/apps/details?id=com.youcam.videoeditor.reface.makeup
+Rating: 4.3star
+
+--------------------------------------
+
+More by Perfect Mobile Corp. Photo & Video Beauty Editor
+dev_app_name: YouCam Enhance: Photo Enhancer
+dev_app_link: https://play.google.com/store/apps/details?id=com.perfectcorp.yce
+Rating: 3.8star
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Collage Maker | Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=photoeditor.layout.collagemaker
+Rating: 4.9
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Photo Editor - Collage Maker
+dev_app_link: https://play.google.com/store/apps/details?id=photocollage.photoeditor.collagemaker
+Rating: 4.9
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Background Eraser Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=photoeditor.cutout.backgrounderaser
+Rating: 4.8
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: ToonTap: AI Headshot Generator
+dev_app_link: https://play.google.com/store/apps/details?id=toontap.photoeditor.cartoon.cartoonphotoeditor
+Rating: 4.6
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Glitch Photo Editor & Glitch V
+dev_app_link: https://play.google.com/store/apps/details?id=vhs.vaporwave.glitcheffects.glitchphotoeditor
+Rating: 4.8
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Beauty Camera - Selfie Camera
+dev_app_link: https://play.google.com/store/apps/details?id=com.northpark.beautycamera
+Rating: 4.0
+
+--------------------------------------
+
+Photo Editor & Collage Maker
+dev_app_name: Face & Body Editor - AI Photo
+dev_app_link: https://play.google.com/store/apps/details?id=breastenlarger.bodyeditor.photoeditor
+Rating: 4.8
+
+--------------------------------------
+
+More by QuVideo Inc. Video Editor & Video Maker App
+dev_app_name: VivaVideo - Video Editor&Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.quvideo.xiaoying
+Rating: 4.4star
+
+--------------------------------------
+
+More by QuVideo Inc. Video Editor & Video Maker App
+dev_app_name: VivaVideo Lite:Slideshow Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.quvideo.vivavideo.lite
+Rating: 4.4star
+
+--------------------------------------
+
+More by QuVideo Inc. Video Editor & Video Maker App
+dev_app_name: SlidePlus  -  Slideshow Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.quvideo.slideplus
+Rating: 4.1star
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: B612 AI Photo&Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.linecorp.b612.android
+Rating: 4.3
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: SNOW - AI Profile
+dev_app_link: https://play.google.com/store/apps/details?id=com.campmobile.snow
+Rating: 3.9
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: VITA - Video Editor & Maker
+dev_app_link: https://play.google.com/store/apps/details?id=com.snowcorp.vita
+Rating: 4.3
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: Foodie - Filter & Film Camera
+dev_app_link: https://play.google.com/store/apps/details?id=com.linecorp.foodcam.android
+Rating: 3.8
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: EPIK - AI Photo & Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.snowcorp.epik
+Rating: 4.3
+
+--------------------------------------
+
+SNOW Corporation
+dev_app_name: SODA - Natural Beauty Camera
+dev_app_link: https://play.google.com/store/apps/details?id=com.snowcorp.soda.android
+Rating: 4.3
+
+--------------------------------------
+
+VivaCut professional video editor
+dev_app_name: Video Editor APP - VivaCut
+dev_app_link: https://play.google.com/store/apps/details?id=com.videoeditorpro.android
+Rating: 4.4
+
+--------------------------------------
+
+VivaCut professional video editor
+dev_app_name: Glitch Video Effect: Glitch FX
+dev_app_link: https://play.google.com/store/apps/details?id=com.vfxeditor.android
+Rating: 4.3
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: Photo Lab Picture Editor & Art
+dev_app_link: https://play.google.com/store/apps/details?id=vsin.t16_funny_photo
+Rating: 4.5star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: CreepyArtist - Halloween Photo
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.creepyartist
+Rating: 3.1star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: Emolfi: power up any messenger
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.emolfikbd
+Rating: 4.0star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: askAI for Instagram
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.askai
+Rating: 3.9star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: ArtMyMood empathic selfie cam
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.emoselfie
+Rating: 4.2star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: Seasonal Sticker Pack
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.stickers_group.seasonal_pack
+Rating: 3.5star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: phoTWO - selfie collage camera
+dev_app_link: https://play.google.com/store/apps/details?id=com.vicman.photwo.camera.selfie_collage
+Rating: 4.4star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: Visage Lab PRO - face retouch
+dev_app_link: https://play.google.com/store/apps/details?id=to.pho.visagelab_pro
+Rating: 4.1star
+
+--------------------------------------
+
+More by Linerock Investments LTD
+dev_app_name: Visage Lab – face retouch
+dev_app_link: https://play.google.com/store/apps/details?id=to.pho.visagelab
+Rating: 3.8star
+
+--------------------------------------
+
+More by GoPro
+dev_app_name: GoPro Quik: Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.gopro.smarty
+Rating: 4.4star
+
+--------------------------------------
+
+PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.
+dev_app_name: BeautyPlus-AI Photo/Video Edit
+dev_app_link: https://play.google.com/store/apps/details?id=com.commsource.beautyplus
+Rating: 4.5
+
+--------------------------------------
+
+PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.
+dev_app_name: AirBrush: Photo/Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.magicv.airbrush
+Rating: 4.1
+
+--------------------------------------
+
+PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.
+dev_app_name: Vmake AI Fashion Model Studio
+dev_app_link: https://play.google.com/store/apps/details?id=com.airbrush.vmake
+Rating: 4.4
+
+--------------------------------------
+
+PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.
+dev_app_name: AirVid-AI Quality Enhancer Pro
+dev_app_link: https://play.google.com/store/apps/details?id=com.airbrush.video
+Rating: 4.2
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Screen Recorder Video Recorder
+dev_app_link: https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor
+Rating: 4.4star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Video Editor & Maker VideoShow
+dev_app_link: https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor
+Rating: 4.5star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Retouch Remove Objects Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.magic.retouch
+Rating: 4.7star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Video Maker Music Video Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.funcamerastudio.videomaker
+Rating: 4.4star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: AI Image Generator & AI Video
+dev_app_link: https://play.google.com/store/apps/details?id=com.energysh.quickarte
+Rating: 3.9star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Video Editor VideoShow Pro
+dev_app_link: https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditorpro
+Rating: 4.4star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Collage Maker Photo Editor PIP
+dev_app_link: https://play.google.com/store/apps/details?id=com.funcamerastudio.collagemaker
+Rating: 4.6star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: AI Photo Enhancer, AI Enhancer
+dev_app_link: https://play.google.com/store/apps/details?id=com.photoscan.enhancer.remini.photomyne.colorize.scanner
+Rating: 4.6star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: AI ChatBot AI Friend Generator
+dev_app_link: https://play.google.com/store/apps/details?id=com.facebook.videodownload.videodownloaderforfacebook
+Rating: 4.6star
+
+--------------------------------------
+
+More by VIDEOSHOW Video Editor & Maker & AI Chat Generator
+dev_app_name: Background Eraser Photo Editor
+dev_app_link: https://play.google.com/store/apps/details?id=com.energysh.onlinecamera1
+Rating: 4.3star
+
+--------------------------------------
+
